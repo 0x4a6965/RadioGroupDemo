@@ -15,3 +15,5 @@ for (int i = 0; i < list.size(); i++) {
   mRbGroup.addView(grbCurrency);
 }
 ```
+
+https://blog.csdn.net/weixin_42164949/article/details/108199494
