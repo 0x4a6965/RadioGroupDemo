@@ -1,0 +1,8 @@
+<resources>
+	<dimen name="dimen1">1dp</dimen>
+	<dimen name="dimen2">2dp</dimen>
+	<dimen name="dimen5">5dp</dimen>
+	<dimen name="dimen15">15dp</dimen>
+
+	<dimen name="txtSize16">16sp</dimen>
+</resources>

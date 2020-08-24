@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.administrator.radiogroupdemo.GridRadioButton
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:textColor="@color/sel_currency"
+	android:textSize="@dimen/txtSize16"
+	android:background="@drawable/rb_currency"
+	android:button="@null"
+	android:gravity="center"
+	android:paddingTop="@dimen/dimen5"
+	android:paddingBottom="@dimen/dimen5"
+	android:paddingStart="@dimen/dimen15"
+	android:paddingEnd="@dimen/dimen15" />

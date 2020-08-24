@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="colorPrimary">#29a3f0</color>
+	<color name="colorAccent">#FF4081</color>
+
+	<color name="white">#FFFFFF</color>
+	<color name="gray">#999999</color>
+	<color name="rb_select">#29a3f0</color>
+	<color name="rb_normal">#f4f4f4</color>
+</resources>
